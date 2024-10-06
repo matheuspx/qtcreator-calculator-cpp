@@ -128,7 +128,7 @@ public:
         pushButton_receba->setObjectName("pushButton_receba");
         pushButton_receba->setGeometry(QRect(300, 530, 101, 81));
         pushButton_receba->setStyleSheet(QString::fromUtf8("background-color: rgb(27, 30, 35);\n"
-"color: rgb(0, 0, 0);\n"
+"color: rgb(255, 255, 255);\n"
 "font-size: 22px;"));
         pushButton_0 = new QPushButton(centralwidget);
         pushButton_0->setObjectName("pushButton_0");

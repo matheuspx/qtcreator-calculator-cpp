@@ -292,7 +292,7 @@ font-size: 22px;</string>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(27, 30, 35);
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 font-size: 22px;</string>
     </property>
     <property name="text">
