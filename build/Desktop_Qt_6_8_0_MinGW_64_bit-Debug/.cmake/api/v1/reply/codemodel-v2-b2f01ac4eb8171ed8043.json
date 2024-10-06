@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d527dcf9c75997877fbf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "calculadora",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calculadora::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculadora-Debug-06d2e382f8e8d0105fcd.json",
+					"name" : "calculadora",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculadora_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculadora_autogen-Debug-4c878edb02590a32af3d.json",
+					"name" : "calculadora_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculadora_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculadora_autogen_timestamp_deps-Debug-090d948620299d700dc8.json",
+					"name" : "calculadora_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/matheus/Documents/calculadora/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/matheus/Documents/calculadora"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
